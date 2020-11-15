@@ -2,9 +2,9 @@
 
 # Welcome to My Github page. 
 
-- 🔭 I’m currently working on a Fullstack of applications and services for a startup
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about Native Android Development or The Android architecture or Andtoid Reverse engineering
+- 🔭 I’m currently working on: A Fullstack of applications and services for a startup
+- 🌱 I’m currently learning: Flutter and Cloud Services 
+- 💬 Ask me about: Native Android Development or The Android architecture or Andtoid Reverse engineering
 - 📫 How to reach me: ... I read emails, or Twitter DMs
 
 
