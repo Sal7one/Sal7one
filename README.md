@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Sal7one/Sal7one/main/background.jpg?token=AE5MGPXLOFR4QRRIUAGZQR27XIAMS)](https://www.twitter.com/Sal_7one)
+<img src="background.jpg" alt="drawing" width="570"/>
 
 # Welcome to My Github page. 
 
