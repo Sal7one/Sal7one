@@ -1,4 +1,4 @@
-<img src="bg.png" alt="drawing" width="750"/>
+<img src="newbgg.png" alt="drawing" width="750"/>
 
 # Welcome to My Github page. 
 
