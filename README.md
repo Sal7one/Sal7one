@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: Native Android Applications
 - 🌱 I’m currently learning: Honsetly everything... From Software engineering patterns to Micro-Controllers and New Web/ Mobile technologies 
-- 💬 Ask me about: Native Android Development or The Android architecture Flutter!, Andtoid Reverse engineering, Backend development
+- 💬 Ask me about: Native Android Development or The Android architecture. Flutter Development, Android Reverse engineering, Backend development
 - 📫 How to reach me: ... I read emails, or Twitter DMs
 
 
