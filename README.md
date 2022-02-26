@@ -1,4 +1,4 @@
-<img src="profile_background.png" alt="drawing" width="550"/>
+<img src="profile_background.png" alt="drawing" width="950"/>
 
 # Welcome to My Github page. 
 
