@@ -1,4 +1,4 @@
-<img src="git_background.png" alt="drawing" width="800"/>
+<img src="git_background.png" alt="drawing" width="780"/>
 
 # Welcome to My Github page. 
 
