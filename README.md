@@ -20,9 +20,9 @@
 <img height="180em" src="https://mz-github-stats.vercel.app/api?username=Sal7one&show_icons=true&hide_border=true" alt="Sal7one"/>
 
   
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sal7one&margin-w=15&margin-h=15&column=7" alt="Sal7one" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sal7one&title=MultiLanguage,Commits,Followers,Repositories,Stars&margin-w=15&margin-h=15&column=5" alt="Sal7one" />
   </a> 
 </p>
 
