@@ -1,6 +1,3 @@
-<p align="center">
-<img src="git_background.png" alt="drawing" width="700"/>
-</p>
 
 # Welcome to My Github page. 
 
