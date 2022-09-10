@@ -2,12 +2,9 @@
 # Welcome to My Github page. 
 
 - 🔭 I’m currently working on: Native Android Applications. (Mostly Jeptack compose)
-- 🌱 I’m currently learning: Honsetly everything... From Software engineering patterns to Reverse engineering - New Web/ Mobile technologies 
-- 📚 I'm currently reading: Design Patterns: Elements of Reusable Object-Oriented Software
+- 🌱 I’m currently learning: Honsetly everything... From Software engineering patterns to Reverse engineering - New Web/ Mobile technologies
 - 💬 Ask me about: Native Android Development or The Android architecture. Jetpack compose!, Flutter Development, Android Reverse engineering, Backend development
 - 📫 How to reach me: ... I read emails, or Twitter DMs
-
-
 
 
 <b>⚡ My GitHub Statistics</b>  
